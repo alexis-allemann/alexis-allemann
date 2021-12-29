@@ -1,11 +1,11 @@
-### 👋 &nbsp;Hey there! I'm Alexis
+## 👋 &nbsp;Hey there! I'm Alexis
 
-#### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Science in the School of Business and Engineering Vaud ([HEIG-VD](https://heig-vd.ch/)).
 
-#### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -21,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-#### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/alexis-allemann">
@@ -29,7 +29,7 @@
 </a>
 </p>
 
-#### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alexis-allemann-15421a185/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
