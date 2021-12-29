@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Science in the School of Business and Engineering Vaud ([HEIG-VD](https://heig-vd.ch/)).
+🎓 &nbsp;I'm currently studying Software Engineering in the School of Business and Engineering Vaud ([HEIG-VD](https://heig-vd.ch/)).
 
 ### 🛠 &nbsp;Tech Stack
 
